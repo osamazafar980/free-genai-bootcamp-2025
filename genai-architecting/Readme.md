@@ -1,24 +1,47 @@
 ## Functional Requirements
 
-The company wants to invest in owning their infrastructure.
-The reason is because they there is a concern about the privacy of user data and also a concern that the cost of managed services for GenAI will greatly raise in cost.
+# Infrastructure Ownership:
+<ol>
+<li>Control over operations.</li>
+<li>Enhanced data privacy.</li>
+<li>Cost efficiency in the long term.</li>
+</ol>
 
-They want to invest an AI PC where they can afford spend of 10-15K
-They have 300 active students, and students are located within the city of Nagasaki.
+# Motivation:
+
+<ol>
+<li>User Data Privacy: Stronger data security with in-house control.</li>
+<li>Cost Management: Avoid rising costs of managed GenAI services.</li>
+</ol>
+
+# Investment Plan:
+
+<ol>
+<li>Budget: $10,000 to $15,000 for high-performance AI workstation/server.</li>
+<li>Supports 300 active students in Tokyo.</li>
+</ol>
 
 ## Assumptions
 
-We are assuming that the Open-source LLMs that we choose will be powerful enough to run on hardware with an investment of 10-15K.
-
-
-We're just going to hook up a single serve in our office to the internet and we should have enough bandwidth to serve the 300 students.
+<ol>
+<li>Open-Source LLMs: Assumed to run effectively under $10K budget.</li>
+<li>Network Bandwidth: Existing office internet will support 100 students.</li>
+</ol>
 
 ## Data Strategy
 
-There is a concerned of copyrighted materials, so we must purchase and supply materials and store them for access in our database.
+<ol>
+<li>Licensed Materials: Purchase all necessary educational materials.</li>
+<li>Secure Storage: Store materials in a protected, centralized database.</li>
+<li>Controlled Access: Restrict data access to authorized users only.</li>
+</ol>
 
 ## Considerations
 
-We're considering using IBM Granite because its a truley open-source model with training data that is traceable so we can avoid any copyright issues and we are able to know what is going on in the model.
+# Model Selection - Falcon LLM or IBM Granite:
 
-https://huggingface.co/ibm-granite
+<ol>
+<li>Open-source with strong performance for diverse NLP tasks.</li>
+<li>Designed with data transparency for better compliance.</li>
+<li>Efficient resource utilization suitable for on-premises deployment.</li>
+</ol>
