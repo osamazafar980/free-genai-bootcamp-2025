@@ -1,13 +1,8 @@
 ## MetaAI Powered Assistant Guide
 
-### Which Model
+## Model
+LLaMA 2, which has 70 billion parameters.
 
-Meta.ai is using Llama 3 70B
+## Performance:
 
-https://huggingface.co/meta-llama/Meta-Llama-3-70B
-
-### Prompting Guides
-
-https://www.llama.com/docs/how-to-guides/prompting/
-
-It appears that Lllama does not have any special prompting requirements to best understand context like other models.
+It is looking good, provides good breakdown and clues for the consideration and continues the conversation with intent to teach.

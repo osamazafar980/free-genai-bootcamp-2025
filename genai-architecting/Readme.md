@@ -24,7 +24,7 @@
 ## Assumptions
 
 <ol>
-<li>Open-Source LLMs: Assumed to run effectively under $10K budget.</li>
+<li>Open-Source LLMs: Assumed to run effectively under $5K budget.</li>
 <li>Network Bandwidth: Existing office internet will support 100 students.</li>
 </ol>
 
